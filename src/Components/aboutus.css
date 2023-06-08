@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1,h2,h3{
+    font-family: "Bruno Ace SC", cursive;
+    color: white;
+    
+}
+p{
+    font-family: "Roboto Mono", monospace;
+    color: white;
+}
+.logo{
+    text-align: center;
+    width: 100%;
+    background-color: black;
+}
+.body{
+    width: 100%;
+}
+#myVideo{
+    position:fixed;
+    left:0%;
+    right:0%;   
+    min-width: 100%; 
+  min-height: 100%;
+  z-index: -1;
+}
+.cointainor{
+    z-index: 1;
+    width: 800px;
+    margin-left: auto;
+    margin-right:auto;
+}
+.cointainor>h1{
+   font-size: 49px;
+   text-align: center;
+}

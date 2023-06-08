@@ -1,0 +1,101 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+h3{
+  font-family: "Bruno Ace SC";
+}
+body {
+  background-color: black;
+  width: 100%;
+}
+.Header {
+  background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt_FNuEtg6H4efDzUaNBBvplgahOi1FwOrP3h2oddS9xzn_zrsuS4_DkGw3G7hljRPZdhY9VXO1T_BbanOZ9QNUItfY4bAMbFZ3P8Lq5HDVW_eVaTVeCn0rUj5tIuHlK_75RZeiyAFqLUWOCJ-H9c008WvHJUMflbMfBaJRu_qmROgFGec-rqXwFQ/s3163/777.jpg");
+  background-size: cover;
+
+  width: 100%;
+  height: 850px;
+}
+.nav {
+  color: white;
+  background-color: black;
+}
+li {
+  list-style-type: none;
+  display: inline;
+  padding: 20px;
+  left: 60%;
+  float: right;
+  padding-top: 40px;
+  font-family: "Bruno Ace SC", cursive;
+  color:white;
+}
+.nav>a{
+  color:white;
+}
+a{
+  color:white;
+}
+.headcon {
+  font-family: "Roboto Mono", monospace;
+  color: white;
+  height: 700px;
+  width: 1080px;
+  margin-top: 100px;
+
+  text-align: center;
+}
+.headcon > h1 {
+  font-family: "Bruno Ace SC", cursive;
+  font-size: 150px;
+}
+.headcon > h3 {
+  padding-bottom: 20px;
+}
+.headcon > a {
+  font-family: "Bruno Ace SC", cursive;
+  margin-top: 20px;
+  border: 2px solid peru;
+  border-radius: 10%;
+  padding: 5px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 25, 0);
+  font-weight: 200px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.cardcont {
+    color: white;
+
+  text-align: center;
+}
+.card1 {
+    display: inline;
+}
+td {
+  font-family: "Roboto Mono", monospace;
+}
+.footer {
+  background-color: rgb(46, 46, 46);
+  height: 200px;
+  color: aliceblue;
+}
+
+.footcon>h3{
+    font-family: "Bruno Ace SC", cursive;
+
+}
+.footcon>p{
+
+    font-family: "Roboto Mono", monospace;
+}
+.contactus{
+    float: left;
+    padding-top: 20px;
+    padding-left: 50px;
+
+}
+.contactadre{
+    float: right;
+    padding-top: 20px;
+}

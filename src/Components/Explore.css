@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:black;
+    color: white;
+    background-image: url("	https://mars.nasa.gov/assets/mrn/mrn_splash.jpg");
+    background-repeat: none;
+    background-size: cover;
+}
+h1,h2,h3{
+    font-family: "Bruno Ace SC", cursive;
+    color: white;
+    
+}
+p{
+    font-family: "Roboto Mono", monospace;
+}
+.logo{
+    text-align: center;
+
+}
+.container>h1{
+    margin-top: 300px;
+    text-align: center;
+}
